@@ -1,3 +1,4 @@
+import React from 'react';
 import { useEffect, useState } from 'react';
 import PokemonThumbnails from './PokemonThumbnails';
 import pokemonJson from "./pokemon.json";
