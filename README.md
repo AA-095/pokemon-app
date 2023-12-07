@@ -1,3 +1,4 @@
+![スクリーンショット (17)](https://github.com/AA-095/pokemon-app/assets/118035809/af6d3d92-0d8e-47ff-bb8c-b536c1ce49fd)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
